@@ -4,8 +4,6 @@
  * A very simple C++ crackMe like program
  * - Asks for a "password", but really it just checks length
  * This was created to help demostrate Ghidra
- * I intend to compile on my Raspberry Pi 
- * - ARM assembly might be a bit more simple to read
  */
 
 #include <iostream>
